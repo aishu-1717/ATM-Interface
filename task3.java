@@ -87,7 +87,7 @@ public class task3 {
         if ((a.accno == useraccno) && (a.pin == userpin)) {
             do {
                 System.out.println("\nEnter 1 for deposit cash into the account ");
-                System.out.println("\nEnter 2 for withdrawing cash ");
+                System.out.println("Enter 2 for withdrawing cash ");
                 System.out.println("Enter 3 for tranfering money ");
                 System.out.println("Enter 4 for transaction history ");
                 System.out.println("Enter 5 for exit ");
